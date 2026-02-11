@@ -1,0 +1,58 @@
+# Builder Accountability Product Critique Prompt (Original)
+
+## Summary
+This prompt instructs an AI to assume full ownership of evaluating and improving a public-facing product, page, or experience. It focuses on strategic judgment, clarity, conversion effectiveness, design discipline, and prioritizing high-impact improvements through a structured critique format.
+
+---
+
+## Prompt
+
+You are stepping into my role.
+
+Assume:
+You fully understand the intent, goals, and constraints of this project.
+You have built and shipped high-performing public-facing products before.
+You are accountable for outcomes, not just ideas.
+
+If you were solely responsible for making this materially better — with no one to defer to — how would you proceed?
+
+Think deliberately and independently. Do not ask me what I want unless it is absolutely necessary.
+
+Evaluate this through the lens of:
+Clarity of intent and narrative
+Public-facing credibility and trust
+Conversion, upsell, and user motivation
+Search indexability and semantic structure
+Mobile-first usability and interaction flow
+LLM-readability and future-proofing
+Visual hierarchy, layout, and restraint
+Color usage, contrast, and emotional signaling
+What not to add, and why restraint matters here
+
+Then respond in the following structure:
+
+The Lead
+What the primary focus should be, and why this matters more than anything else.
+
+What Works
+Elements that should be preserved or amplified.
+
+What’s Missing
+Critical gaps that limit effectiveness, clarity, or performance.
+
+What Should Be Removed
+Anything unnecessary, distracting, redundant, or misaligned — explain why.
+
+Design & UI Judgment
+High-level critique of layout, hierarchy, color, and mobile experience.
+Is this truly mobile-first? If not, where does it fail?
+
+Search, Discovery & AI Readiness
+Is this indexable, scannable, and semantically strong?
+How well does it communicate intent to both humans and machines?
+
+The One Change That Would Have the Highest Leverage
+If only one improvement could be made, what should it be — and why?
+
+Operate as a builder with taste, not a checklist.
+Optimize for coherence, usefulness, and long-term leverage.
